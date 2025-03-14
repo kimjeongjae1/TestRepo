@@ -22,7 +22,7 @@
 - Python <br>
 <img src=image/seleniumlogo.png height=50 widht=50>
 - Selenium <br>
-<img src=image/Pytestlogo.png height=50 widht=50>
+<img src=image/pytestlogo.png height=50 widht=50>
 - Pytest <br>
 
 ---
