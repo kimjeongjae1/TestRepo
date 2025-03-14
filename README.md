@@ -20,10 +20,10 @@
 ## Skill INFO      
 <img src=image/pngwing.com.png height=50 widht=50>
 - Python <br>
-
+<br>
 <img src=image/seleniumlogo.png height=50 widht=50>
 - Selenium <br>
-
+<br>
 <img src=image/Pytestlogo.png height=50 widht=50>
 - Pytest <br>
 
